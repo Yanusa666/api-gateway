@@ -1,0 +1,15 @@
+{
+  "http_server": {
+    "listen_address": "0.0.0.0:8000"
+  },
+  "log_level": "debug",
+  "news": {
+    "URI": "http://127.0.0.1:8001"
+  },
+  "comments": {
+    "URI": "http://127.0.0.1:8002"
+  },
+  "censor": {
+    "URI": "http://127.0.0.1:8003"
+  }
+}
